@@ -2816,10 +2816,12 @@ input, select, textarea {
 					}
 
 /* Wrapper */
+	
 
 	#wrapper {
 		background: #fff;
 		padding-right: 23em;
+		
 	}
 
 /* Main */
